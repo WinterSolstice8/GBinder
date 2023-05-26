@@ -18,13 +18,13 @@ In order to compile this project, you need the following:
   
 The G-Key SDK must be installed to your project directory with the folder name GKeySDK such that the following paths are available relative to the solution file's directory:
 
-> build-debug.bat
-> build-release.bat
-> GBinder.sln
-> GKeySDK\Include\LogitechGkeyLib.h
-> GKeySDK\Lib\x86\LogitechGkeyLib.lib
-> LICENSE.md
-> README.md
+* build-debug.bat
+* build-release.bat
+* GBinder.sln
+* GKeySDK\Include\LogitechGkeyLib.h
+* GKeySDK\Lib\x86\LogitechGkeyLib.lib
+* LICENSE.md
+* README.md
 
 # In-Game Usage
 
